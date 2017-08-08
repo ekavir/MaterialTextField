@@ -11,11 +11,11 @@ buildscript {
 }
 
 ext {
-    sdk = 25
-    buildTools = "25.0.2"
+    sdk = 22
+    buildTools = "22.0.2"
     minSdk = 10
     libraryVersion = "1.0.7"
-    supportVersion = "25.1.0"
+    supportVersion = "22.1.0"
 }
 
 allprojects {
